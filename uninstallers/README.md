@@ -5,8 +5,8 @@
 ## MailScanner and MSFE (MailScanner Front-End):
 
 ```
-curl -sL -o msuninstall.pl  https://github.com/waytotheweb/scripts/blob/main/uninstallers/MailScanner/msuninstall.pl?raw=true
-curl -sL https://github.com/waytotheweb/scripts/blob/main/uninstallers/MailScanner/msuninstall.sh?raw=true | bash
+curl -sL -o msuninstall.pl https://raw.githubusercontent.com/petal-host/config-server-scripts/main/uninstallers/MailScanner/msuninstall.pl
+curl -sL https://raw.githubusercontent.com/petal-host/config-server-scripts/main/uninstallers/MailScanner/msuninstall.sh | bash
 ```
 
 ## cxs:
@@ -30,23 +30,23 @@ bash /etc/csf/uninstall.sh
 ## cmc:
 
 ```
-curl -sL https://github.com/waytotheweb/scripts/blob/main/uninstallers/cmc/cmc_uninstall.sh?raw=true | bash
+curl -sL https://raw.githubusercontent.com/petal-host/config-server-scripts/main/uninstallers/cmc/cmc_uninstall.sh | bash
 ```
 
 ## cmm:
 
 ```
-curl -sL https://github.com/waytotheweb/scripts/blob/main/uninstallers/cmm/cmm_uninstall.sh?raw=true | bash
+curl -sL https://raw.githubusercontent.com/petal-host/config-server-scripts/main/uninstallers/cmm/cmm_uninstall.sh | bash
 ```
 
 ## cmq:
 
 ```
-curl -sL https://github.com/waytotheweb/scripts/blob/main/uninstallers/cmq/cmq_uninstall.sh?raw=true | bash
+curl -sL https://raw.githubusercontent.com/petal-host/config-server-scripts/main/uninstallers/cmq/cmq_uninstall.sh | bash
 ```
 
 ## cse:
 
 ```
-curl -sL https://github.com/waytotheweb/scripts/blob/main/uninstallers/cse/cse_uninstall.sh?raw=true | bash
+curl -sL https://raw.githubusercontent.com/petal-host/config-server-scripts/main/uninstallers/cse/cse_uninstall.sh | bash
 ```
