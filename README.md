@@ -6,9 +6,6 @@ These are the final copies of the scripts.
 
 There is no intention to update any of these files, so any PR's or other contact will not receive a response. 
 
-For uninstallation of any of our scripts, go to the [uninstallers](uninstallers) directory.
-
-
 
 # ConfigServer Installer (English)
 
