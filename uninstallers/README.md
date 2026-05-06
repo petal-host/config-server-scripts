@@ -1,6 +1,7 @@
-# Scripts for former Way to the Web Limited Products
+# ConfigServer Product Scripts
 
-### The scripts in this repository will uninstall each product
+### The scripts in this repository can uninstall supported ConfigServer products.
+
 
 ## MailScanner and MSFE (MailScanner Front-End):
 
